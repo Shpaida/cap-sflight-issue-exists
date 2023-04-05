@@ -55,6 +55,13 @@ There should not be multiple lines for the same group.
 -   @sap/instance-manager: 3.5.3
 -   Node.js: v16.13.2
 
+## UI5
+
+-   SAPUI5 Distribution: 1.110.1 (built at 05.02.2023 14:06:00)
+-   OpenUI5 Version: 1.110.0 (built at 23.01.2023 13:07:00)
+-   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+-   App URL: http://localhost:4004/travel_analytics/webapp/index.html
+
 ## Run locally
 
 ### Build and Run - Node.js Backend
