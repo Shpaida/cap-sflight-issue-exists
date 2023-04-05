@@ -63,7 +63,15 @@
                         "amy": {
                             "roles": [
                                 "processor"
-                            ]
+                            ],
+                            "userAttributes": {
+                                "dest": [
+                                    "EWR"
+                                ],
+                                "country": [
+                                    "$UNRESTRICTED"
+                                ]
+                            }
                         },
                         "admin": {
                             "password": "admin",
