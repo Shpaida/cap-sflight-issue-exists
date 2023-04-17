@@ -44,22 +44,17 @@ There should not be multiple lines for the same group.
 ## CDS version
 
 -   @sap/cds: 6.7.0
--   @sap/cds-compiler: 3.8.2
+-   @sap/cds-compiler: 3.3.2
 -   @sap/cds-dk: 6.7.0
 -   @sap/cds-dk (global): 6.7.0
 -   @sap/cds-foss: 4.0.0
--   @sap/cds-mtx: 2.6.4
--   @sap/cds-mtxs: 1.7.0
--   @sap/eslint-plugin-cds: 2.6.3
--   @sap/hdi-deploy: 4.6.0
--   @sap/instance-manager: 3.5.3
--   Node.js: v16.13.2
+-   Node.js: v16.18.0
 
 ## UI5
 
--   SAPUI5 Distribution: 1.110.1 (built at 05.02.2023 14:06:00)
--   OpenUI5 Version: 1.110.0 (built at 23.01.2023 13:07:00)
--   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+-   SAPUI5 Distribution: 1.112.1 (built at 24.03.2023 14:46:00)
+-   OpenUI5 Version: 1.112.0 (built at 20.03.2023 11:52:00)
+-   User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 -   App URL: http://localhost:4004/travel_analytics/webapp/index.html
 
 ## Run locally
